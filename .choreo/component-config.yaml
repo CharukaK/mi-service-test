@@ -5,5 +5,5 @@ spec:
         - name: mi-service-endpoint
           port: 8080
           type: REST
-          context: demoproject/hehe
+          context: /demoproject/hehe
           networkVisibility: Public
